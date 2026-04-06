@@ -28,7 +28,7 @@ Users can input data points and predict unknown values using different numerical
 
 ## How to Run
 1. Install required libraries
-   bash
+   (bash)
    - pip install numpy
    - pip install matplotlib
 3. Run the program
