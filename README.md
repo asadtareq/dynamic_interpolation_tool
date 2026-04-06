@@ -5,6 +5,9 @@ This project implements numerical methods for interpolation and curve fitting us
 
 Users can input data points and predict unknown values using different numerical techniques. The project also compares the accuracy of methods.
 
+## Motivation
+This project is part of my research preparation in numerical analysis and computational mathematics. It focuses on implementing and comparing interpolation and curve fitting methods for data modeling.
+
 ## Methods Used
 - Lagrange Interpolation
 - Polynomial Curve Fitting (Least Squares)
@@ -38,8 +41,9 @@ Users can input data points and predict unknown values using different numerical
 1. Data Points: (1,1),(2,4),(3,10)
 2. Predict Point: 2.6
 
-## Motivation
-This project is part of my research preparation in numerical analysis and computational mathematics. It focuses on implementing and comparing interpolation and curve fitting methods for data modeling.
+## Visualization
+- output.png
+- plot_interpolation_curvfitting.png
 
 ## Author
 Md Asaduzzaman 
