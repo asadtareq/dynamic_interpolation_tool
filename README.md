@@ -38,5 +38,8 @@ Users can input data points and predict unknown values using different numerical
 1. Data Points: (1,1),(2,4),(3,10)
 2. Predict Point: 2.6
 
+## Motivation
+This project is part of my research preparation in numerical analysis and computational mathematics. It focuses on implementing and comparing interpolation and curve fitting methods for data modeling.
+
 ## Author
 Md Asaduzzaman 
