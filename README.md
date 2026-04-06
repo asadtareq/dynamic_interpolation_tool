@@ -28,7 +28,11 @@ Users can input data points and predict unknown values using different numerical
 
 ## How to Run
 1. Install required libraries
-2. Run the program
+   bash
+   - pip install numpy
+   - pip install matplotlib
+3. Run the program
+   - python interpolation_tool.py
 
 ## Example
 1. Data Points: (1,1),(2,4),(3,10)
